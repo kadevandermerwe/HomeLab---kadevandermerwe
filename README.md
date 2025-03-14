@@ -10,8 +10,8 @@ This homelab project is designed to enhance **network security, segmentation, an
 
 ## Tech Stack
 - **Hardware:**
-  - Router: `[Model]`
-  - Server: `[Laptop/Raspberry Pi]`
+  - Router: `Vodafone THG3000`
+  - Server: `Lenovo G50-30`
   - WiFi Adapter: TP-Link Archer T2U
 - **Software:**
   - Ubuntu 22.04
